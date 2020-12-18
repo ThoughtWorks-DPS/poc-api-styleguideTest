@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Test_doc_to_VA_API"
+  description: "Test_doc_to_VA"
+  annotations:
+    github.com/project-slug: "ThoughtWorks-DPS/poc-api-styleguideTest"
+    backstage.io/techdocs-ref: github:https://github.com/ThoughtWorks-DPS/poc-api-styleguideTest
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Suhasini"

@@ -1,0 +1,8 @@
+site_name: "Test_doc_to_VA_API"
+site_description: "Test_doc_to_VA"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
